@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 group-title="HD;Кино",TV1000 Русское кино
-http://192.168.30.254:4022/rtp/233.33.210.9:5040
+#EXTINF:-1 group-title=HD group-title=Кино,TV1000 Русское кино
+http://192.168.30.254:4022/udp/233.33.210.9:5040
 #EXTINF:-1 group-title="Радио",Вести FM
 http://192.168.30.254:4022/udp/233.33.210.10:5040
 #EXTINF:-1,Авто Плюс
