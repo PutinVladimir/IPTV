@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1,TV1000 Русское кино
-#EXTGRP:Кино,HD
+#EXTGRP:Кино;HD
 http://192.168.30.254:4022/udp/233.33.210.9:5040
 #EXTINF:-1,Вести FM
 #EXTGRP:Радио
