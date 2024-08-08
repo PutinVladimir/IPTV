@@ -148,23 +148,11 @@ http://192.168.30.254:4022/udp/233.33.210.15:5050
 #EXTINF:-1 group-title="Кино",Viju TV1000 русское HD
 http://192.168.30.254:4022/udp/233.33.220.69:5040
 #EXTINF:-1 group-title="Кино",Viju TV1000 Action HD
-http://192.168.30.254:4022/udp/233.33.220.27:5040
-#EXTINF:-1 group-title="Кино",Viju TV1000 Action HD
 http://192.168.30.254:4022/udp/233.33.220.83:5040
 #EXTINF:-1 group-title="Кино",Viju TV1000
 http://192.168.30.254:4022/udp/233.33.220.81:5040
 #EXTINF:-1 group-title="Кино",VHS-ка HD
 http://192.168.30.254:4022/udp/233.33.220.74:5040
-#EXTINF:-1 group-title="Кино",TV1000 Русское кино HD
-http://192.168.30.254:4022/udp/233.33.221.23:5040
-#EXTINF:-1 group-title="Кино",TV1000 Русское кино
-http://192.168.30.254:4022/udp/233.33.210.9:5040
-#EXTINF:-1 group-title="Кино",TV1000 Action HD
-http://192.168.30.254:4022/udp/233.33.210.33:5040
-#EXTINF:-1 group-title="Кино",TV1000
-http://192.168.30.254:4022/udp/233.33.210.126:5040
-#EXTINF:-1 group-title="Кино",TV1000
-http://192.168.30.254:4022/udp/233.33.210.134:5040
 #EXTINF:-1 group-title="Кино",Suspense HD
 http://192.168.30.254:4022/udp/233.33.220.67:5040
 #EXTINF:-1 group-title="Кино",Romance
@@ -582,7 +570,20 @@ http://192.168.30.254:4022/udp/233.33.221.39:5050
 #EXTINF:-1 group-title="Телемагазины",Digital Media (JWL)
 http://192.168.30.254:4022/udp/233.33.221.127:5040
 
-#EXTINF:-1 group-title="Резервные",ЛенТВ24
+#EXTGRP Резервные
+#EXTINF:-1 group-title="Кино",TV1000 Action HD
+http://192.168.30.254:4022/udp/233.33.220.27:5040
+#EXTINF:-1 group-title="Кино",TV1000 Action HD
+http://192.168.30.254:4022/udp/233.33.210.33:5040
+#EXTINF:-1 group-title="Кино",TV1000 Русское кино HD
+http://192.168.30.254:4022/udp/233.33.210.9:5040
+#EXTINF:-1 group-title="Кино",TV1000 Русское кино HD
+http://192.168.30.254:4022/udp/233.33.221.23:5040
+#EXTINF:-1 group-title="Кино",TV1000 HD
+http://192.168.30.254:4022/udp/233.33.210.126:5040
+#EXTINF:-1 group-title="Кино",TV1000 HD
+http://192.168.30.254:4022/udp/233.33.210.134:5040
+#EXTINF:-1 group-title="Региональные",ЛенТВ24
 http://192.168.30.254:4022/udp/233.33.221.164:5050
 #EXTINF:-1 group-title="Резервные",Ю
 http://192.168.30.254:4022/udp/233.33.220.149:5050
