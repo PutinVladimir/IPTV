@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="Новости",Россия 24
-https://player.smotrim.ru/iframe/stream/live_id/21
+http://192.168.30.254:4022/udp/233.33.210.255:5050
 #EXTINF:-1 group-title="Новости",РБК HD
 http://192.168.30.254:4022/udp/233.33.210.90:5050
 #EXTINF:-1 group-title="Новости",Про Бизнес
@@ -26,7 +26,7 @@ http://192.168.30.254:4022/udp/233.33.210.112:5050
 #EXTINF:-1 group-title="Федеральные",СТС HD
 http://192.168.30.254:4022/udp/233.33.220.77:5040
 #EXTINF:-1 group-title="Федеральные",Россия К
-https://player.smotrim.ru/iframe/stream/live_id/19201
+http://192.168.30.254:4022/udp/233.33.210.60:5050
 #EXTINF:-1 group-title="Федеральные",Рен ТВ HD
 http://192.168.30.254:4022/udp/233.33.221.180:5040
 #EXTINF:-1 group-title="Федеральные",Пятый канал
