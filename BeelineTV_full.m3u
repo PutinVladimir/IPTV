@@ -571,17 +571,17 @@ http://192.168.30.254:4022/udp/233.33.221.39:5050
 http://192.168.30.254:4022/udp/233.33.221.127:5040
 
 #EXTGRP Резервные
-#EXTINF:-1 group-title="Кино" tvg-shift="2",TV1000 Action HD
+#EXTINF:-1 group-title="Кино" tvg-shift="-2",TV1000 Action HD
 http://192.168.30.254:4022/udp/233.33.220.27:5040
-#EXTINF:-1 group-title="Кино" tvg-shift="4",TV1000 Action HD
+#EXTINF:-1 group-title="Кино" tvg-shift="-4",TV1000 Action HD
 http://192.168.30.254:4022/udp/233.33.210.33:5040
-#EXTINF:-1 group-title="Кино" tvg-shift="2",TV1000 Русское кино HD
+#EXTINF:-1 group-title="Кино" tvg-shift="-2",TV1000 Русское кино HD
 http://192.168.30.254:4022/udp/233.33.210.9:5040
-#EXTINF:-1 group-title="Кино" tvg-shift="4",TV1000 Русское кино HD
+#EXTINF:-1 group-title="Кино" tvg-shift="-4",TV1000 Русское кино HD
 http://192.168.30.254:4022/udp/233.33.221.23:5040
-#EXTINF:-1 group-title="Кино" tvg-shift="2",TV1000 HD
+#EXTINF:-1 group-title="Кино" tvg-shift="-2",TV1000 HD
 http://192.168.30.254:4022/udp/233.33.210.126:5040
-#EXTINF:-1 group-title="Кино" tvg-shift="4",TV1000 HD
+#EXTINF:-1 group-title="Кино" tvg-shift="-4",TV1000 HD
 http://192.168.30.254:4022/udp/233.33.210.134:5040
 #EXTINF:-1 group-title="Региональные",ЛенТВ24
 http://192.168.30.254:4022/udp/233.33.221.164:5050
