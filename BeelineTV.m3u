@@ -1,12 +1,12 @@
 #EXTM3U
 #EXTINF:-1 group-title="Новости",Россия 24
-http://192.168.30.254:4022/udp/233.33.210.255:5050
+https://player.smotrim.ru/iframe/stream/live_id/21
 #EXTINF:-1 group-title="Новости",РБК HD
 http://192.168.30.254:4022/udp/233.33.210.90:5050
 #EXTINF:-1 group-title="Новости",Про Бизнес
 http://192.168.30.254:4022/udp/233.33.210.89:5050
-#EXTINF:-1 group-title="Новости",МИР 24
-http://192.168.30.254:4022/udp/233.33.221.45:5050
+#EXTINF:-1 group-title="Новости",МИР 24 HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 group-title="Новости",Известия HD
 http://192.168.30.254:4022/udp/233.33.221.129:5050
 #EXTINF:-1 group-title="Новости",RT HD
@@ -26,7 +26,7 @@ http://192.168.30.254:4022/udp/233.33.210.112:5050
 #EXTINF:-1 group-title="Федеральные",СТС HD
 http://192.168.30.254:4022/udp/233.33.220.77:5040
 #EXTINF:-1 group-title="Федеральные",Россия К
-http://192.168.30.254:4022/udp/233.33.210.60:5050
+https://player.smotrim.ru/iframe/stream/live_id/19201
 #EXTINF:-1 group-title="Федеральные",Рен ТВ HD
 http://192.168.30.254:4022/udp/233.33.221.180:5040
 #EXTINF:-1 group-title="Федеральные",Пятый канал
@@ -37,16 +37,16 @@ http://192.168.30.254:4022/udp/233.33.210.107:5050
 http://192.168.30.254:4022/udp/233.33.210.69:5050
 #EXTINF:-1 group-title="Федеральные",ОТР
 http://192.168.30.254:4022/udp/233.33.221.134:5050
-#EXTINF:-1 group-title="Федеральные",Мир
-http://192.168.30.254:4022/udp/233.33.210.68:5050
+#EXTINF:-1 group-title="Федеральные",Мир HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 group-title="Федеральные",Звезда Плюс HD
 http://192.168.30.254:4022/udp/233.33.221.75:5040
 #EXTINF:-1 group-title="Федеральные",Звезда
-http://192.168.30.254:4022/udp/233.33.210.117:5050
+http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="Федеральные",Домашний HD
 http://192.168.30.254:4022/udp/233.33.221.152:5040
 #EXTINF:-1 group-title="Федеральные",RTД HD
-http://192.168.30.254:4022/udp/233.33.221.119:5050
+https://hls.rt.com/hls/rtdru.m3u8
 #EXTINF:-1 group-title="Федеральные",Спас
 http://192.168.30.254:4022/udp/233.33.221.123:5050
 #EXTINF:-1 group-title="Спорт",Удар
