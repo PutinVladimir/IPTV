@@ -531,7 +531,7 @@ http://192.168.30.254:4022/udp/233.33.220.105:5050
 http://192.168.30.254:4022/udp/233.33.220.73:5040
 #EXTINF:-1 group-title="Региональные",ЛенТВ24
 http://192.168.30.254:4022/udp/233.33.210.121:5050
-#EXTINF:-1 group-title="18+" parent-protect="1",Шёлк
+#EXTINF:-1 group-title="18+" parent-protect="1",French Lover
 http://192.168.30.254:4022/udp/233.33.221.35:5050
 #EXTINF:-1 group-title="18+" parent-protect="1",Русская ночь HD
 http://192.168.30.254:4022/udp/233.33.210.96:5040
