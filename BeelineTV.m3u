@@ -139,11 +139,11 @@ http://192.168.30.254:4022/udp/233.33.210.49:5050
 http://192.168.30.254:4022/udp/233.33.220.85:5050
 #EXTINF:-1 group-title="Кино",Дом Кино Премиум HD
 http://192.168.30.254:4022/udp/233.33.220.162:5050
-#EXTINF:-1 group-title="Кино",VIP Premiere HD
+#EXTINF:-1 group-title="Кино",Viju+ Premiere HD
 http://192.168.30.254:4022/udp/233.33.220.212:5050
-#EXTINF:-1 group-title="Кино",VIP Megahit HD
+#EXTINF:-1 group-title="Кино",Viju+ Megahit HD
 http://192.168.30.254:4022/udp/233.33.220.145:5050
-#EXTINF:-1 group-title="Кино",VIP Comedy HD
+#EXTINF:-1 group-title="Кино",Viju+ Comedy HD
 http://192.168.30.254:4022/udp/233.33.210.15:5050
 #EXTINF:-1 group-title="Кино",Viju TV1000 русское HD
 http://192.168.30.254:4022/udp/233.33.220.69:5040
