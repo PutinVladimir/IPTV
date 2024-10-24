@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://gabbarit.page.link/epg14"
+#EXTM3U
 #EXTINF:-1 group-title="Новости",Россия 24
 http://192.168.30.254:4022/udp/233.33.210.255:5050
 #EXTINF:-1 group-title="Новости",РБК HD
