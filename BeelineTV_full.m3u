@@ -157,6 +157,8 @@ http://192.168.30.254:4022/udp/233.33.220.74:5040
 http://192.168.30.254:4022/udp/233.33.220.67:5040
 #EXTINF:-1 group-title="Кино",Romance
 http://192.168.30.254:4022/udp/233.33.210.144:5040
+#EXTINF:-1 group-title="Кино",Romance Новогодний
+http://192.168.30.254:4022/udp/233.33.210.94:5040
 #EXTINF:-1 group-title="Кино",KinoLiving
 http://192.168.30.254:4022/udp/233.33.221.33:5040
 #EXTINF:-1 group-title="Кино",KinoJam 1 HD
