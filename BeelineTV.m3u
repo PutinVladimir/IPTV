@@ -146,7 +146,7 @@ http://192.168.30.254:4022/udp/233.33.220.145:5050
 #EXTINF:-1 group-title="Кино",Viju+ Comedy HD
 http://192.168.30.254:4022/udp/233.33.210.15:5050
 #EXTINF:-1 group-title="Кино",Viju TV1000 Новелла
-http://192.168.30.254:4022/udp/rtp://233.33.220.237:5040
+http://192.168.30.254:4022/udp/233.33.220.237:5040
 #EXTINF:-1 group-title="Кино",Viju TV1000 русское HD
 http://192.168.30.254:4022/udp/233.33.220.69:5040
 #EXTINF:-1 group-title="Кино",Viju TV1000 Action HD
